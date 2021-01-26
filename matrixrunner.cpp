@@ -8,7 +8,7 @@
 #define _BV(bit) (1 << (bit))
 //letter sprites and matrix writing functions
 
-#include "C:\Documents and Settings\D\My Documents\Arduino\scrollnosprite\matrixwrappers.h"
+#include ".\matrixwrappers.h"
 //color defines
 #define RED 0
 #define GREEN 1
